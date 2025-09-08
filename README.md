@@ -3,8 +3,7 @@
 <h3 align="center">IT student from Russia 🇷🇺</h3>
 
 - 📫 How to reach me: domator.1@mail.ru
-
 - 🔭 I'm currently working on the website "How I spent my summer" as a homework assignment
-- 🌱 I’m currently learning HTML
-- [![trophy](https://github-profile-trophy.vercel.app/?username=z1dipex)](https://github.com/ryo-ma/github-profile-trophy)
+- 🌱 I'm currently learning HTML and I'm trying to improve my English language skills by adding it to my daily life (YouTube, games, etc.)<p>
+   [![trophy](https://github-profile-trophy.vercel.app/?username=z1dipex)](https://github.com/ryo-ma/github-profile-trophy)
 - ⚡ Fun fact: I REALLY LOVE GAMES
